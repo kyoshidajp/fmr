@@ -1,0 +1,7 @@
+.bundle
+.idea
+*/database.db
+*/log
+cache
+log
+vendor/bundle
